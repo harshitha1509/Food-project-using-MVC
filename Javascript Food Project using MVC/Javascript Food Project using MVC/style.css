@@ -1,0 +1,23 @@
+
+#left-container{
+    width: 300px;
+}
+
+.card{
+    margin: 20px;
+}
+
+#parent{
+    display: flex;
+    gap: 100px;
+}
+
+
+#image{
+    width: 400px;
+}
+
+#plus, #minus{
+    width: 20px;
+    height: 20px;
+}
